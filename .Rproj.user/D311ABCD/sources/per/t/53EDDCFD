@@ -1,0 +1,26 @@
+{
+    "id": "53EDDCFD",
+    "path": "D:/VSCode/QSSAnalytics/R/RLibrary/pandas/R/pnds.r",
+    "project_path": "R/pnds.r",
+    "type": "r_source",
+    "hash": "2939546833",
+    "contents": "",
+    "dirty": false,
+    "created": 1622191694682.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "22,56",
+        "scrollLine": "17"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1622193300,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1622193300238,
+    "read_only": false,
+    "read_only_alternatives": []
+}

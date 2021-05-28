@@ -1,0 +1,26 @@
+{
+    "id": "E1D047AB",
+    "path": "D:/VSCode/QSSAnalytics/R/RLibrary/numpy/R/linspace.r",
+    "project_path": null,
+    "type": "r_source",
+    "hash": "4202379039",
+    "contents": "",
+    "dirty": false,
+    "created": 1622191854909.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "14,25",
+        "scrollLine": "13"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1622116986,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1622116986,
+    "read_only": false,
+    "read_only_alternatives": []
+}
